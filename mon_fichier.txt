@@ -2,3 +2,5 @@ ceci est un fichier txt
 Ligne ajoutee par utilisateur bis
 ligne ajoutee par lutilisateur original
 ligne ajoutee section merge
+Nouvelle ligne feature ajoutee par utilisateur bis
+
