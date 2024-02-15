@@ -1,1 +1,2 @@
 ceci est un fichier txt
+Ligne ajoutee par utilisateur bis
