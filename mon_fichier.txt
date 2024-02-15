@@ -1,3 +1,4 @@
 ceci est un fichier txt
 Ligne ajoutee par utilisateur bis
 ligne ajoutee par lutilisateur original
+Nouvelle ligne feature ajoutee par utilisateur bis
