@@ -1,2 +1,2 @@
 # GestionDeProjet4A
-Repo pour le course de Gestion de projet
+Dépot pour le cours de Gestion de projet - Sélim Ben Abdallah & Florian Lafontas
